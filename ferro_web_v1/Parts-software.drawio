@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.9.1">
+  <diagram name="Страница — 1" id="TvHhEs-G3YCBY6WP7gKi">
+    <mxGraphModel dx="2049" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vhINbbezRPUfkJW7kh6c-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#E6FFCC;strokeColor=#82b366;strokeOpacity=100;fillOpacity=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="480" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;fillOpacity=30;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="1560" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;fillOpacity=30;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="1560" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;fillOpacity=30;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="1560" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;fillOpacity=30;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="980" width="1560" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-8" value="Метод 1&lt;div&gt;Метод фиксированной частоты&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="191.25" width="225" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-9" value="Метод 2&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Метод фиксированной длины&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="471.25" width="225" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-10" value="Метод 3&lt;div&gt;Метод стержневых образцов&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="751.25" width="225" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-11" value="Метод 4&lt;div&gt;Метод СВЧ ферритов&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="1031.25" width="225" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-13" value="Вводимые значения" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="161.25" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-14" value="Автоматические значения" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="161.25" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-15" value="Расширенные настройки" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="260" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-16" value="Продольный индекс колебаний&lt;div&gt;Диаметр резонатора&lt;/div&gt;&lt;div&gt;Длина без образца&lt;/div&gt;&lt;div&gt;Перемещение поршня&lt;/div&gt;&lt;div&gt;Модуль коэффициента передачи&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="290" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-17" value="Толщина образца" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="190" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-18" value="Частота без образца&lt;div&gt;Частота F1&lt;/div&gt;&lt;div&gt;Частота F2&lt;/div&gt;&lt;div&gt;Частота Fe&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="191.25" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-19" value="Вводимые значения" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="440" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-20" value="Автоматические значения" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-21" value="Расширенные настройки" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="538.75" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-22" value="Продольный индекс колебаний&lt;div&gt;Диаметр резонатора&lt;/div&gt;&lt;div&gt;Длина без образца&lt;/div&gt;&lt;div&gt;Модуль коэффициента передачи&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="568.75" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-23" value="Толщина образца" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="468.75" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-24" value="Частота без образца F0&lt;div&gt;Частота F1&lt;/div&gt;&lt;div&gt;Частота F2&lt;/div&gt;&lt;div&gt;Частота с образцом Fe&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-25" value="Вводимые значения" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="715.63" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-26" value="Автоматические значения" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="715.63" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-27" value="Расширенные настройки" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="814.38" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-28" value="Продольный индекс колебаний&lt;div&gt;Радиус резонатора&lt;/div&gt;&lt;div&gt;Длина без образца&lt;/div&gt;&lt;div&gt;Перемещение поршня&lt;/div&gt;&lt;div&gt;Модуль коэффициента передачи&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="844.38" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-29" value="Радиус стержня" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="744.38" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-30" value="Частота без образца F0&lt;div&gt;Частота F1&lt;/div&gt;&lt;div&gt;Частота F2&lt;/div&gt;&lt;div&gt;Частота с образцом Fe&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="745.63" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-31" value="Вводимые значения" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="995.63" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-32" value="Автоматические значения" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="995.63" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-33" value="Расширенные настройки" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1094.38" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-34" value="&lt;div&gt;Радиус резонатора&lt;/div&gt;&lt;div&gt;Радиус образца&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1124.38" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-35" value="Форма образца&lt;div&gt;Поперечная составляющая магнитной проницаемости&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1024.38" width="215" height="65.62" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-36" value="Частота без образца F1&lt;div&gt;Частота c образцом F2&lt;/div&gt;&lt;div&gt;Затухание измерительного резонатора delt-D&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1025.63" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-2" value="Этап 1.&lt;div&gt;Конфигурация параметров метода&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="50" width="365" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="720" y="40" width="688.75" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d6b656;imageWidth=24;fillOpacity=50;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-43">
+          <mxGeometry width="240" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-41" value="Этап 2.&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-43">
+          <mxGeometry x="34.6875" y="14.838709677419352" width="170.625" height="59.35483870967741" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-42" value="Автоматический сбор данных с рефлектометра. Ожидание подтверждения введения образца в измерительный резонатор" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=-90;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-43">
+          <mxGeometry x="-209.38" y="430" width="658.75" height="100.65" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-44" value="" style="group;fillColor=#CCE5FF;strokeColor=#3399FF;fillOpacity=50;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1000" y="40" width="160" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-46" value="Этап 3.&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-44">
+          <mxGeometry x="31.25" y="20" width="97.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-47" value="Автоматический сбор данных с рефлектометра с образцом. Обработка данных по методам. Сохранение данных в БД. Вывод данных на экран." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=-90;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-44">
+          <mxGeometry x="-370" y="595.63" width="900" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d6b656;imageWidth=24;fillOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="720" y="960" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-49" value="Ожидание подтвержения пользователя о калибровке крышки." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1070" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-50" value="Сбор данных с рефлектометра. Ожидание подтверждения о вводе образца." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1064.38" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-51" value="" style="group;fillColor=#E5CCFF;strokeColor=#CC99FF;fillOpacity=50;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1200" y="40" width="160" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-52" value="Этап 4.&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-51">
+          <mxGeometry x="31.25" y="20" width="97.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-53" value="Возврат к пункту 2-3 при наличии серии снятий показаний." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=-90;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-51">
+          <mxGeometry x="-370" y="595.63" width="900" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-54" value="" style="group;fillColor=#CCFFFF;strokeColor=#66FFFF;fillOpacity=50;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1400" y="40" width="160" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-55" value="Этап 5.&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-54">
+          <mxGeometry x="31.25" y="20" width="97.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vhINbbezRPUfkJW7kh6c-56" value="Вывод данных всех измерений серии. Возможность быстрой выгрузки в ПДФ отчёт." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=-90;" vertex="1" parent="vhINbbezRPUfkJW7kh6c-54">
+          <mxGeometry x="-370" y="595.63" width="900" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

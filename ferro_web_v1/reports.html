@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FERRO / Бином</title>
+    <link rel="icon" href="img/logo_pc.svg" type="image/x-icon" sizes="any">
+    <link href="index-ver2.0.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="js/jquery.ui.touch-punch.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <style>
+        :root {
+            /* --repas-avatar-user: url('https://sun7-6.userapi.com/s/v1/ig1/iXIW1GFx_o9s2w2leVOChd6-lfIiMI8OobK4UW1PVBsbx-TQKvfVdinF8z00p95s2g0OHrqm.jpg?size=50x50&quality=96&crop=645,5,1167,1167&ava=1');*/
+            --repas-user-background: #cbd5d6;
+            --repas-avatar-user: url('img/avatars/peeps-avatar-alpha (1).png') center/110% no-repeat, linear-gradient(to top, var(--repas-user-background), var(--repas-user-background));
+        }
+    </style>
+</head>
+<body class="_body">
+<div class="_body_load_construct">
+    <div class="_block_menu_body_construct">
+        <div class="_block_head_menu_construct_block">
+            <!-- <div class="_block_logo_admin_panel_content">
+                 <div class="_block_logo_admin_panel"></div>
+             </div>-->
+            <a href="">
+                <div class="_link_item_menu_construct">
+                    <div class="_icon_item_link_menu_cont">
+                        <div class="_icon_item_link_menu">
+                            <span class="_icon_svg_menu_block _icon_menu_menu"></span>
+                        </div>
+                    </div>
+                    <div class="_name_link_item_content _logo_ferro">FERRO</div>
+                </div>
+            </a>
+        </div>
+        <div class="_content_block_menu">
+            <a href="home.html">
+                <div class="_link_item_menu_construct">
+                    <div class="_icon_item_link_menu_cont">
+                        <div class="_icon_item_link_menu">
+                            <span class="_icon_svg_menu_block _icon_menu_home"></span>
+                        </div>
+                    </div>
+                    <div class="_name_link_item_content">Главная</div>
+                </div>
+            </a>
+            <a href="mesuares.html">
+                <div class="_link_item_menu_construct">
+                    <div class="_icon_item_link_menu_cont">
+                        <div class="_icon_item_link_menu">
+                            <span class="_icon_svg_menu_block _icon_menu_measurement"></span>
+                        </div>
+                    </div>
+                    <div class="_name_link_item_content">Измерения</div>
+                </div>
+            </a>
+            <a href="reports.html">
+                <div class="_link_item_menu_construct">
+                    <div class="_icon_item_link_menu_cont">
+                        <div class="_icon_item_link_menu">
+                            <span class="_icon_svg_menu_block _icon_menu_documents"></span>
+                        </div>
+                    </div>
+                    <div class="_name_link_item_content">Отчёты</div>
+                </div>
+            </a>
+        </div>
+        <div class="_block_footer_menu_content">
+            <a class="_notification_card" style="opacity: 0.5">
+                <div class="_link_item_menu_construct">
+                    <div class="_icon_item_link_menu_cont">
+                        <div class="_icon_item_link_menu _cloud_link_item_menu">
+                            <span class="_icon_svg_menu_block _icon_menu_cloud"></span>
+                        </div>
+                    </div>
+                    <div class="_name_link_item_content">Синхронизация</div>
+                </div>
+            </a>
+            <a href="">
+                <div class="_link_item_menu_construct">
+                    <div class="_icon_item_link_menu_cont">
+                        <div class="_icon_item_link_menu">
+                            <span class="_icon_svg_menu_block _icon_menu_setting"></span>
+                        </div>
+                    </div>
+                    <div class="_name_link_item_content">Настройки</div>
+                </div>
+            </a>
+            <a class="_setting_account_card">
+                <div class="_link_item_menu_construct">
+                    <div class="_icon_item_link_menu_cont">
+                        <div class="_icon_item_link_menu">
+                            <span class="_icon_svg_menu_block _icon_menu_account"></span>
+                        </div>
+                    </div>
+                    <div class="_name_link_item_content">Гость</div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="_setting_account_block_content">
+        <div class="_block_account_card_info">
+            <div class="_block_card_head_info">
+                <span class="_icon_svg_menu_block _icon_menu_account _icon_account_set_card"></span>
+                <div class="_info_acc_card_setting">
+                    <div class="_name_card_info_set_account">Гость</div>
+                    <div class="_descript_card_info_set_account">Общий доступ</div>
+                </div>
+            </div>
+            <div class="_block_card_head_info _block_actions_account_menu">
+                <span class="_logout_card_card_info" title="Выйти из аккаунта"></span>
+            </div>
+        </div>
+    </div>
+    <div class="_block_main_content">
+        <div class="_head_block_main_body_content">
+            <div class="_content_block_info_head_main_body _block_address_desktop_device">
+                <div class="_box_content_info_head">
+                    <div class="_name_organisation_repas_head_block">Бином</div>
+                </div>
+            </div>
+            <div class="_box_content_info_head _block_button_content">
+                <button class="_green_button_staff ">Новое исследование</button>
+            </div>
+        </div>
+        <div class="_block_title_info">
+            <div class="_title_main_page">Отчёты</div>
+        </div>
+                <div id="content_tab" class="_main_body_page">
+                    <div class="_block_actions_of_page_data">
+                        <div class="_filter_search_block">
+                            <input type="text" placeholder="Поиск по названиям"  autocomplete="off"  id="SearchFerro">
+                        </div>
+                        <div class="_button_block_action_page_data _block_button_content">
+                            <button class="_green_button_staff _add_category_to_menu _icon_button _icon_add">Создать отчёт</button>
+                            <button class="_icon_button _icon_sorting _open_sorting_block">Сортировка</button>
+                            <div class="_block_sorting_fields_window">
+                                <div class="_link_sorting_block_content">
+                                    <div class="_name_sort_item">По дате создания</div>
+                                </div>
+                                <div class="_link_sorting_block_content">
+                                    <div class="_name_sort_item">По названию</div>
+                                </div>
+                                <div class="_link_sorting_block_content">
+                                    <div class="_name_sort_item">По статусу</div>
+                                </div>
+                            </div>
+                            <button class="_icon_button _icon_filter ">Фильтр</button>
+                        </div>
+                    </div>
+                    <div class="_report_page _block_all_reports" id="BlockResults">
+                        <div class="_block_info_cover_report _new_measure_create">
+                            <div class="_block_cover_report_book">
+                                <div class="_block_name_report_book">Исследование №32</div>
+                            </div>
+                            <div class="_block_report_info_cover">
+                                <div class="_block_title_report">Отчёт #СВЧФ_1_01122024</div>
+                                <div class="_date_block_info_report">20.11.2024</div>
+                            </div>
+                        </div>
+                        <div class="_block_info_cover_report _new_measure_create">
+                            <div class="_block_cover_report_book">
+                                <div class="_block_name_report_book">Отчёт по новым СВЧ-ферритам</div>
+                            </div>
+                            <div class="_block_report_info_cover">
+                                <div class="_block_title_report">Отчёт #СВЧФ_3_01122024</div>
+                                <div class="_date_block_info_report">20.11.2024</div>
+                            </div>
+                        </div>
+                        <div class="_block_info_cover_report _new_measure_create">
+                            <div class="_block_cover_report_book">
+                                <div class="_block_name_report_book"></div>
+                            </div>
+                            <div class="_block_report_info_cover">
+                                <div class="_block_title_report">Отчёт #СО_1_01122024</div>
+                                <div class="_date_block_info_report">20.11.2024</div>
+                            </div>
+                        </div>
+                        <div class="_block_info_cover_report _new_measure_create">
+                            <div class="_block_cover_report_book">
+                                <div class="_block_name_report_book"></div>
+                            </div>
+                            <div class="_block_report_info_cover">
+                                <div class="_block_title_report">Отчёт #СВЧФ_3_01122024</div>
+                                <div class="_date_block_info_report">20.11.2024</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="_bottom_content_checked_menu">
+                        <div class="_content_actions_fields">
+                            <div class="_title_sum_check_bm">Выбрано: <span></span> разделов</div>
+                            <div class="_block_actions_button_content_bm_check">
+                                <button class="_action_chc_button">Удалить из меню</button>
+                                <button class="_action_chc_button">Скрыть</button>
+                                <button class="_action_chc_button _button_cancel_bottom_menu">Отмена</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="_block_form_save_changes _change_sort_main_block">
+                    <button class="_green_button_staff">Сохранить изменения</button>
+                    <button>Отмена</button>
+                </div>
+
+        <div class="_card_left_block">
+            <div class="_window_open_content_change" id="_window_open_content_change">
+                <div class="_head_block_main_body_content">
+                    <div class="_content_block_info_head_main_body">
+                        <div class="_box_content_info_head _block_address_content_page">
+                            <div class="_name_organisation_repas_head_block">Бином</div>
+                            <span class="_system_block_wty">/</span>
+                            <div class="_name_page_title_main_block">отчёт</div>
+                        </div>
+                    </div>
+                    <div class="_content_block_info_head_main_body">
+                        <div class="_box_content_info_head">
+                            <button class="_action_card_button _close_card_product _close_post_window"></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="_body_content_window_post">
+                    <div id="my-pdf" style="height: calc(100vh - 40px);"></div>
+                    <script src="https://unpkg.com/pdfobject"></script>
+                    <script>PDFObject.embed("data/test_pdf.pdf", "#my-pdf");</script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<script src="js/select_ui.js"></script>
+<script>
+    var $searchInput = $('#SearchFerro');
+    var $searchResuts = $('#BlockResults');
+    $searchInput.on('keyup click input change',function(){
+        var value = this.value;
+        if (value.length > 0) {
+            $searchResuts.find('._block_info_cover_report').show().filter(function() {
+                return  $(this).find('._block_title_report, ._block_name_report_book').text().toLowerCase().indexOf(value.toLowerCase()) == -1;
+            }).hide();
+            /*$searchResuts.find('._block_info_cover_report').show().filter(function() {
+                return  $(this).find('._block_name_report_book').text().toLowerCase().indexOf(value.toLowerCase()) == -1;
+            }).hide();*/
+        }else{
+            $searchResuts.find('._block_info_cover_report').show();
+        }
+    });
+</script>
+<script>
+    $(document).on('click', function(event) {
+        if($('._window_open_content_change').css('right') == '0px'){
+            if(!$(event.target).closest("._show_card_product").length){
+                if(!$(event.target).closest("._window_open_content_change").length){
+                    if($(event.target).parent().attr('class') !== '_delete_variation_link_content'){
+                        handler(0, 'CloseAdminCard');
+                        //console.log($(event.target));
+                    }
+                }
+            }
+        }
+    });
+    const params_function_repas = [
+        ['_show_post_window','OpenAdminCard'],
+        ['_close_post_window','CloseAdminCard'],
+        ['_option_block_method', 'ChangeMethod'],
+        ['_new_measure_create', 'NewMeasure'],
+        ['_send_data_create', 'CreateMeasure'],
+    ];
+    for (let i = 0; i < params_function_repas.length; i += 1) {
+        //console.log(params_function_repas[i]);
+        $(document).on('click','.' + params_function_repas[i][0], function(event){handler(event, params_function_repas[i][1])});
+    }
+    function handler(event, action){
+        console.log(event);
+        console.log(action);
+        if(action === "OpenAdminCard"){
+            $('._window_open_content_change').addClass('_active_card_window');
+            $('._body').addClass('_body_hidden_overflow');
+        }else if(action === "CloseAdminCard") {
+            $('._body').removeClass('_body_hidden_overflow');
+            $('._window_open_content_change').removeClass('_active_card_window');
+        }else if(action === "ChangeMethod"){
+            const method_id = event.target.closest("label").getAttribute("id-method");
+            console.log(method_id);
+            $(event.target).closest("._body_content_window_post").find("._param_method_new").hide();
+            $(event.target).closest("._body_content_window_post").find("._param_method_" + method_id).show();
+        }else  if(action === "NewMeasure"){
+            handler(0, "OpenAdminCard");
+            const method_id = event.target.closest("._new_measure_create").getAttribute("method-id");
+            console.log(method_id);
+            $('._opt_m'+ method_id).trigger('click');
+        }else  if(action === "CreateMeasure"){
+            const path = $(event.target).closest("._window_open_content_change");
+            path.addClass("_research_in_progress");
+            path.find("._head_block_main_body_content").html(" <div class=\"_content_block_info_head_main_body _block_address_desktop_device\">\n" +
+                "                <div class=\"_box_content_info_head\">\n" +
+                "                    <div class=\"_name_organisation_repas_head_block\">Бином</div>\n" +
+                "                </div>\n" +
+                "            </div>\n" +
+                "            <div class=\"_box_content_info_head _block_button_content\">\n" +
+                "                <button class=\"_green_button_staff  _STOP_research_button \">Остановить исследование</button>\n" +
+                "            </div>");
+            path.find("#form_data_win").remove();
+            path.find("._block_form_save_changes").hide();
+            path.find("._block_research_start_content").show();
+            console.log($("#form_data_win").serialize());
+        }
+    }
+</script>
+</html>
